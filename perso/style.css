@@ -1,0 +1,18 @@
+.info{
+  width:350px;
+  margin:auto;
+  background-color: purple;
+}
+h1{
+  font-size: 160px;
+  color:white;
+}
+.banner{
+  height:700px;
+  background-color: purple;
+}
+
+.space{
+  height:200px;
+  background-color: purple;
+}
