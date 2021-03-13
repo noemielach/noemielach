@@ -1,0 +1,25 @@
+baseURL = "/"
+languageCode = "en-us"
+title = "My New Hugo Site"
+theme="sam"
+
+[params]
+homepage = "home"
+footerText = "Noemie Lachman 2021"
+
+
+[[params.mainMenu]]
+    link = "/about"
+    text = "noemie lachman"
+
+[[params.mainMenu]]
+    link = "/projects"
+    text = "projects"
+
+[[params.mainMenu]]
+    link = "/photos"
+    text = "photos"
+
+[[params.mainMenu]]
+    link = "/posts"
+    text = "posts"
